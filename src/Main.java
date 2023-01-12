@@ -114,6 +114,5 @@ public class Main {
 
         numberWorkers += 94;
         System.out.println("Если в компании работает " + numberWorkers + " человек, то всего " + (numberWorkers * workerCapacity) + " часов работы может быть поделено между сотрудниками");
-
     }
 }
